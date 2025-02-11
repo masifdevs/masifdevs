@@ -18,14 +18,14 @@ I build **scalable, high-performance, cross-platform mobile applications**, inte
 - Designed and implemented **scalable architectures**, optimizing app performance and maintainability.  
 - Managed a **team of 6 developers**, introducing **agile methodologies** to enhance productivity.  
 - Integrated backend services using **Node.js, Firebase, and Supabase** for seamless app functionality.  
-- Implemented **payment gateways (Stripe, PayPal, Razorpay)** and **real-time notifications**.  
+- Implemented **payment gateways** and **real-time notifications**.  
 - Ensured **code quality, security**, and **data encryption**, reducing vulnerabilities.  
 
 ### **Technical Lead Mobile Applications**  
 *Access IT Sdn Bhd*  
 - Developed and optimized **Flutter mobile applications** and **Node.js backend APIs**.  
 - Enhanced **app performance**, reducing crashes and improving **loading speeds**.  
-- Spearheaded **state management strategies (GetX, Riverpod, Bloc)** for scalable app architectures.  
+- Spearheaded **state management strategies (GetX, Provider, Bloc, Riverpod, Redux)** for scalable app architectures.  
 - Led mobile projects from **concept to deployment**, ensuring high-quality standards.  
 - Integrated **OAuth, JWT authentication, and secure data storage** to enhance security.  
 
@@ -45,10 +45,9 @@ I build **scalable, high-performance, cross-platform mobile applications**, inte
 | **Mobile Development** | Flutter, FlutterFlow, React Native                 |  
 | **Backend Development** | Node.js, Express.js, RESTful APIs, Firebase, Supabase    |  
 | **Databases**        | Firestore, Supabase, MongoDB, SQL                         |  
-| **State Management** | GetX, Riverpod, Provider, Bloc, Redux                           |  
+| **State Management** | GetX, Provider, Bloc, Riverpod, Redux                           |  
 | **Integrations**     | Stripe, Google Maps, Firebase, WebSockets                 |  
-| **Cloud & DevOps**   | GitHub Actions, CI/CD, Docker, Firebase Cloud Functions   |  
-| **UI/UX**           | Material Design, Cupertino Widgets, Adaptive UI 
+| **UI/UX**           | Material Design, Cupertino Widgets
 | **Project Tools**   | Jira, ClickUp, Agile Methodologies                 |  
 
 ---
@@ -89,13 +88,17 @@ I build **scalable, high-performance, cross-platform mobile applications**, inte
 ---
 
 ## 🌍 Industry Expertise  
-✔ **Healthcare & Fitness** 
-✔ **E-commerce & Finance**
-✔ **Business & Productivity**  
-✔ **Social Networking** 
-✔ **Education & Learning**
-✔ **Entertainment & Media**  
-✔ **Utility & Automation** 
+
+- **Healthcare & Fitness**  
+- **E-commerce & Finance**  
+- **Business & Enterprise Solutions**  
+- **Social Networking & Community Platforms**  
+- **Education & E-Learning**  
+- **Entertainment & Media Streaming**  
+- **Productivity & Task Management**  
+- **On-Demand Services & Marketplaces**  
+- **Utility & Automation**  
+- **AI-Integrated Mobile Applications**  
 
 ---
 
