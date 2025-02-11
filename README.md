@@ -4,10 +4,10 @@
 ---
 
 ## 🚀 Mobile Application Developer | Flutter | React Native | FlutterFlow  
-I am a results-driven **Mobile Application Developer** with **4+ years of experience** specializing in **Flutter, React Native, and FlutterFlow**.  
 
-I build **scalable, high-performance, cross-platform mobile applications**, integrating modern **UI/UX principles, real-time data synchronization, and robust backend services**. My expertise spans across **state management, API design, and performance optimization**, ensuring seamless app experiences.   
+Experienced Mobile Application Developer with 4+ years of expertise in React Native, Flutter, and FlutterFlow, specializing in building high-performance, scalable, and user-friendly mobile applications. I have successfully integrated payment gateways (Stripe, PayPal, Razorpay), Google Maps, Google Ads, push notifications, real-time messaging, and smooth animations to enhance user experience. My expertise extends to Firebase and RESTful API integrations, ensuring secure and efficient data management.
 
+I develop and optimize iOS & Android applications, focusing on seamless performance, intuitive UI/UX, and secure architecture. With extensive experience in publishing and maintaining apps on the App Store and Google Play Store, I ensure maximum app visibility, user engagement, and long-term scalability.
 ---
 
 ## 💼 Professional Experience  
