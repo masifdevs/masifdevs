@@ -6,11 +6,7 @@
 ## 🚀 Mobile Application Developer | Flutter | React Native | FlutterFlow  
 I am a results-driven **Mobile Application Developer** with **4+ years of experience** specializing in **Flutter, React Native, and FlutterFlow**.  
 
-I build **scalable, high-performance, cross-platform mobile applications**, integrating modern **UI/UX principles, real-time data synchronization, and robust backend services**. My expertise spans across **state management, API design, and performance optimization**, ensuring seamless app experiences.  
-
-🔹 **Expert in:** Flutter, React Native, FlutterFlow, Firebase, Supabase, Node.js  
-🔹 **Proficient in:** API development, authentication, state management, in-app purchases  
-🔹 **Focus on:** Performance optimization, CI/CD automation, real-time data processing  
+I build **scalable, high-performance, cross-platform mobile applications**, integrating modern **UI/UX principles, real-time data synchronization, and robust backend services**. My expertise spans across **state management, API design, and performance optimization**, ensuring seamless app experiences.   
 
 ---
 
@@ -18,7 +14,7 @@ I build **scalable, high-performance, cross-platform mobile applications**, inte
 
 ### **Lead Mobile Applications Developer**  
 *Al-Burraq Technologies*  
-- Led **15+ mobile application projects** using **Flutter, FlutterFlow, and React Native**.  
+- Led **30+ mobile application projects** using **Flutter, FlutterFlow, and React Native**.  
 - Designed and implemented **scalable architectures**, optimizing app performance and maintainability.  
 - Managed a **team of 6 developers**, introducing **agile methodologies** to enhance productivity.  
 - Integrated backend services using **Node.js, Firebase, and Supabase** for seamless app functionality.  
@@ -46,15 +42,14 @@ I build **scalable, high-performance, cross-platform mobile applications**, inte
 
 | **Category**         | **Skills**                                               |  
 |----------------------|----------------------------------------------------------|  
-| **Mobile Development** | Flutter, FlutterFlow, React Native, Dart                 |  
+| **Mobile Development** | Flutter, FlutterFlow, React Native                 |  
 | **Backend Development** | Node.js, Express.js, RESTful APIs, Firebase, Supabase    |  
 | **Databases**        | Firestore, Supabase, MongoDB, SQL                         |  
-| **State Management** | GetX, Riverpod, Provider, Bloc                           |  
+| **State Management** | GetX, Riverpod, Provider, Bloc, Redux                           |  
 | **Integrations**     | Stripe, Google Maps, Firebase, WebSockets                 |  
 | **Cloud & DevOps**   | GitHub Actions, CI/CD, Docker, Firebase Cloud Functions   |  
-| **UI/UX**           | Material Design, Cupertino Widgets, Adaptive UI           |  
-| **Security**        | OAuth, JWT Authentication, Secure Data Encryption         |  
-| **Project Tools**   | Jira, ClickUp, Linear, Agile Methodologies                 |  
+| **UI/UX**           | Material Design, Cupertino Widgets, Adaptive UI 
+| **Project Tools**   | Jira, ClickUp, Agile Methodologies                 |  
 
 ---
 
@@ -94,13 +89,13 @@ I build **scalable, high-performance, cross-platform mobile applications**, inte
 ---
 
 ## 🌍 Industry Expertise  
-✔ **Healthcare & Fitness** - Built **fitness tracking apps** with **wearable integration**.  
-✔ **E-commerce & Finance** - Integrated **payment systems** and developed **financial tracking** apps.  
-✔ **Business & Productivity** - Created apps improving **business workflows** and **task automation**.  
-✔ **Social Networking** - Built **community-driven apps** with **real-time chat and notifications**.  
-✔ **Education & Learning** - Developed **e-learning platforms** with **interactive content**.  
-✔ **Entertainment & Media** - Designed **streaming and content-sharing** apps with **media playback**.  
-✔ **Utility & Automation** - Implemented **AI-driven automation tools** for **workflow efficiency**.  
+✔ **Healthcare & Fitness** 
+✔ **E-commerce & Finance**
+✔ **Business & Productivity**  
+✔ **Social Networking** 
+✔ **Education & Learning**
+✔ **Entertainment & Media**  
+✔ **Utility & Automation** 
 
 ---
 
