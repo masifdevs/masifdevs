@@ -1,5 +1,5 @@
 # Muhammad Asif  
-📍 Lahore, Pakistan | 📧 masif.devs@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/masifdevs) | 📱 +92-303-9327910  
+📍 Lahore, Pakistan | 📧 masif.devs@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/masifdevs) | 📱 +923039327910  
 
 ---
 
