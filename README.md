@@ -53,41 +53,6 @@
 
 ---
 
-## 🔥 Key Projects  
-
-### **Neuro Force One (NF1)**  
-📌 **Fitness and training app** integrating **smartwatches** and heart rate monitors.  
-- Built a proprietary **Readiness Score** for optimizing gym performance.  
-- Developed the **entire mobile app** from **requirement gathering to delivery**.  
-🔗 [iOS](https://apps.apple.com/pk/app/nf1/id1541450335) | [Android](https://play.google.com/store/apps/details?id=com.idzyns.nf1app)  
-
----
-
-### **ULAY**  
-📌 **A business and education** platform for **urban families**.  
-- Supports **local businesses** in improving service quality and reducing costs.  
-🔗 [iOS](https://apps.apple.com/us/app/ulay/id6449183933) | [Android](https://play.google.com/store/apps/details?id=com.digitaldots.ulay)  
-
----
-
-### **Kids Eat Free**  
-📌 Helps families **find restaurants offering deals** in their local areas.  
-🔗 [iOS](https://apps.apple.com/us/app/kids-eat-free-app/id1482368197) | [Android](https://play.google.com/store/apps/details?id=com.idzyns.kidseatfree)  
-
----
-
-### **EzGiGi**  
-📌 **A dental care app** with a knowledge center for **patient education**.  
-🔗 [iOS](https://apps.apple.com/us/app/ezgigi/id1595845444) | [Android](https://play.google.com/store/apps/details?id=com.ezgigi.customerapp)  
-
----
-
-### **Vertex Inspector**  
-📌 **Asset inspection app** streamlining **inspection workflows**.  
-🔗 [iOS](https://apps.apple.com/app/vertex-inspector/id1636897563) | [Android](https://play.google.com/store/apps/details?id=com.alburraq.vertex)  
-
----
-
 ## 📜 Publication  
 
 📌 **Flutter Image Multi-Grid Selection**  
