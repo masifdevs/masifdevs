@@ -5,7 +5,7 @@
 
 ## 🚀 Flutter | React Native | Android | iOS | Mobile Application Developer
 
-**Experienced Mobile Application Developer** with **4+ years** of expertise in **React Native and Flutter**, specializing in **high-performance, scalable, and user-friendly mobile applications**. I have successfully integrated **payment gateways, Google Maps, Google Ads, push notifications, real-time messaging, and smooth animations** to enhance user experience. My expertise extends to **Firebase and RESTful API integrations**, ensuring secure and efficient data management.  
+**Experienced Mobile Application Developer** with **5+ years** of expertise in **React Native and Flutter**, specializing in **high-performance, scalable, and user-friendly mobile applications**. I have successfully integrated **payment gateways, Google Maps, Google Ads, push notifications, real-time messaging, and smooth animations** to enhance user experience. My expertise extends to **Firebase and RESTful API integrations**, ensuring secure and efficient data management.  
 
 🚀 **I develop and optimize iOS & Android applications, focusing on seamless performance, intuitive UI/UX, and secure architecture. With extensive experience in publishing and maintaining apps on the App Store and Google Play Store, I ensure maximum app visibility, user engagement, and long-term scalability.**  
 
