@@ -1,81 +1,52 @@
-# Muhammad Asif  
-📍 Lahore, Pakistan | 📧 masif.devs@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/masifdevs) | 📱 +923039327910  
+# Muhammad Asif
+📍 Lahore, Pakistan | 📧 masif.devs@gmail.com | 🌐 [Website](https://asif-portfolio-dun.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/masifdevs) | 💻 [GitHub](https://github.com/masifdevs)
 
 ---
 
-## 🚀 Flutter | React Native | Android | iOS | Mobile Application Developer
+## 🚀 Senior Mobile & Web Engineer (Flutter, React Native, React)
 
-**Experienced Mobile Application Developer** with **5+ years** of expertise in **React Native and Flutter**, specializing in **high-performance, scalable, and user-friendly mobile applications**. I have successfully integrated **payment gateways, Google Maps, Google Ads, push notifications, real-time messaging, and smooth animations** to enhance user experience. My expertise extends to **Firebase and RESTful API integrations**, ensuring secure and efficient data management.  
-
-🚀 **I develop and optimize iOS & Android applications, focusing on seamless performance, intuitive UI/UX, and secure architecture. With extensive experience in publishing and maintaining apps on the App Store and Google Play Store, I ensure maximum app visibility, user engagement, and long-term scalability.**  
+Senior Mobile Developer with **5+ years** of experience delivering production-grade apps in **Flutter** and **React Native** across fitness, health, fintech, logistics, on-demand services, and lifestyle. I also build **React** web experiences, focusing on performance, clean architecture, and polished UI/UX.
 
 ---
 
-## 💼 Professional Experience  
+## 💼 Professional Experience
 
-### **Lead Mobile Applications Developer**  
-*Al-Burraq Technologies*  
-- Led **30+ mobile application projects** using **Flutter, FlutterFlow, and React Native**.  
-- Designed and implemented **scalable architectures**, optimizing app performance and maintainability.  
-- Managed a **team of 6 developers**, introducing **agile methodologies** to enhance productivity.  
-- Integrated backend services using **Node.js, Firebase, and Supabase** for seamless app functionality.  
-- Implemented **payment gateways** and **real-time notifications**.  
-- Ensured **code quality, security**, and **data encryption**, reducing vulnerabilities.  
+### **Lead Mobile Applications Developer**
+*Al-Burraq Technologies* — Lahore, Pakistan  
+- Built and deployed **15+ Flutter & React Native apps**.  
+- Led a **team of 6 developers** with Agile/Scrum.  
+- Standardized state management (GetX, Provider, Bloc, Redux, Riverpod).  
+- Implemented testing and CI/CD to improve release quality.  
 
-### **Technical Lead Mobile Applications**  
-*Access IT Sdn Bhd*  
-- Developed and optimized **Flutter mobile applications** and **Node.js backend APIs**.  
-- Enhanced **app performance**, reducing crashes and improving **loading speeds**.  
-- Spearheaded **state management strategies (GetX, Provider, Bloc, Riverpod, Redux)** for scalable app architectures.  
-- Led mobile projects from **concept to deployment**, ensuring high-quality standards.  
-- Integrated **OAuth, JWT authentication, and secure data storage** to enhance security.  
+### **Technical Lead Mobile Applications**
+*Access IT Sdn Bhd* — Cyberjaya, Malaysia  
+- Delivered enterprise Flutter apps, including a cross-platform POS.  
+- Implemented unit, widget, and integration testing.  
+- Enforced UI/UX consistency with reusable components.  
 
-### **Flutter Developer**  
-*Brainstormer Technologies*  
-- Designed and optimized **Flutter-based applications** for various industries.  
-- Integrated **third-party APIs, Firebase, Stripe, and Google Maps** to enhance app functionalities.  
-- Collaborated with teams to implement **responsive UI/UX designs** and seamless user experiences.  
-- Managed **client communications**, providing technical support and feature enhancements.  
+### **Flutter Developer**
+*Brainstormer Technologies* — Lahore, Pakistan  
+- Built mobile apps with Firebase, Stripe, and Google APIs.  
+- Shipped modules ahead of schedule and aligned with clients.  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Core Skills
 
-| **Category**         | **Skills**                                               |  
-|----------------------|----------------------------------------------------------|  
-| **Mobile Development** | Flutter, React Native                                  |  
-| **Backend Development** | Node.js, Express.js, RESTful APIs, Firebase, Supabase    |  
-| **Databases**        | Firestore, Supabase, MongoDB, SQL                         |  
-| **State Management** | GetX, Provider, Bloc, Riverpod, Redux                           |  
-| **Integrations**     | Stripe, Google Maps, Firebase, WebSockets                 |  
-| **UI/UX**           | Material Design, Cupertino Widgets
-| **Project Tools**   | Jira, ClickUp, Agile Methodologies                 |  
+**Mobile:** Flutter, React Native, Dart, Android/iOS SDK, State Management  
+**Web:** React, TypeScript, JavaScript, REST APIs, WebSockets  
+**Backend & Tools:** Firebase, Supabase, MongoDB, SQL, CI/CD, Testing  
 
 ---
 
-## 📜 Publication  
+## 📜 Publication
 
-📌 **Flutter Image Multi-Grid Selection**  
-- Created and published a **Flutter package** for multi-grid image selection.  
-🔗 [Pub.dev](https://pub.dev/packages/flutter_image_multi_grid_selection)  
-
----
-
-## 🌍 Industry Expertise  
-
-- **Healthcare & Fitness**  
-- **E-commerce & Finance**  
-- **Business & Enterprise Solutions**  
-- **Social Networking & Community Platforms**  
-- **Education & E-Learning**  
-- **Entertainment & Media Streaming**  
-- **Productivity & Task Management**  
-- **On-Demand Services & Marketplaces**  
-- **Utility & Automation**  
-- **AI-Integrated Mobile Applications**  
+**Flutter Image Multi-Grid Selection**  
+Open-source Flutter package for multi-grid image selection.  
+🔗 https://pub.dev/packages/flutter_image_multi_grid_selection
 
 ---
 
-## 🌐 Languages  
-- **English**: Professional Proficiency  
-- **Urdu**: Native
+## 🌍 Industry Expertise
+
+Healthcare, Fitness, Fintech, Logistics, On-demand Services, Lifestyle, Marketplace, Community & Social Apps
