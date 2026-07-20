@@ -1,5 +1,5 @@
 # Muhammad Asif
-### 🚀 Senior Mobile Lead | Flutter & React Native Architect | 6+ Years Exp | Software Architecture & CI/CD
+### 🚀 Senior Mobile Developer | Flutter & React Native Specialist | 6+ Years Exp | Building High-Performance Real-Time iOS & Android Apps
 📍 Lahore, Pakistan | 📧 [masif.devs@gmail.com](mailto:masif.devs@gmail.com) | 🌐 [Portfolio](https://asif-portfolio-dun.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/masifdevs) | 💻 [GitHub](https://github.com/masifdevs)
 
 ---
@@ -65,10 +65,11 @@ Building apps that feel native and run anywhere is my everyday craft. For **6+ y
 ## 🤝 Let's Connect
 I am open to **Senior Lead** or **Architect** roles in the **UAE, Europe, and Canada**, as well as high-impact **Global Remote** opportunities.
 
+- 🌐 **Website:**[Portfolio](https://asif-portfolio-dun.vercel.app/)
 - 📩 **Email:** [masif.devs@gmail.com](mailto:masif.devs@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/masifdevs](https://www.linkedin.com/in/masifdevs)
 - 💻 **GitHub:** [github.com/masifdevs](https://github.com/masifdevs)
-- 🌐 **Website:**[Portfolio](https://asif-portfolio-dun.vercel.app/)
+
 
 ---
 *“Building the paved roads (Golden Paths) for mobile teams to scale.”*
