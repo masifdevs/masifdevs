@@ -19,13 +19,13 @@ Building apps that feel native and run anywhere is my everyday craft. For **6+ y
 - **Feature Integration:** Architected complex modules (Biometrics, Real-time Tracking, Payments) for platforms with **100K+ active users**.
 - **Mobile DevOps:** Established automated **CI/CD pipelines** (Codemagic/GitHub Actions), cutting production release errors by **40%**.
 
-### **Senior Flutter Engineer (Remote) | Mobile Architecture**
+### **Senior Mobile Engineer (Remote) | Mobile Architecture**
 **Access IT Sdn Bhd** | Apr 2022 – Mar 2026
 - **Enterprise Solutions:** Engineered a large-scale **POS system** with an **Offline-first architecture** (Hive/SQLite), improving reliability by 20%.
 - **Quality Engineering:** Reduced post-release defects by **15%** by championing a "Test-Driven" culture (Unit, Widget, and Integration tests).
 - **Design Systems:** Developed a proprietary UI component library, cutting feature development time by **25%** while ensuring 100% visual consistency.
 
-### **Mobile App Developer (Flutter & Firebase)**
+### **Mobile App Developer**
 **Brainstormer Technologies** | Apr 2020 – Mar 2021
 - **Full-Stack Mobile:** Built and launched several apps integrated with **Firebase** and local payment providers (JazzCash/Stripe).
 - **Rapid Delivery:** Consistently delivered modules **15% ahead of schedule** by leveraging GetX and micro-service structures.
