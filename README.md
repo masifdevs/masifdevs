@@ -1,75 +1,81 @@
 # Muhammad Asif
-### 🚀 Senior Mobile Developer | Flutter & React Native Specialist | 6+ Years Exp | Building High-Performance Real-Time iOS & Android Apps
+### Senior Mobile Developer | Flutter & React Native | 6+ Years
 📍 Lahore, Pakistan | 📧 [masif.devs@gmail.com](mailto:masif.devs@gmail.com) | 🌐 [Portfolio](https://asif-portfolio-dun.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/masifdevs) | 💻 [GitHub](https://github.com/masifdevs)
 
 ---
 
-## 👨‍💻 About Me
-Building apps that feel native and run anywhere is my everyday craft. For **6+ years**, I’ve used **Flutter (Dart)** and **React Native (TypeScript/JavaScript)** to turn napkin sketches into smooth, store-ready products enjoyed by thousands. I bridge the gap between product vision and scalable cross-platform code, specializing in **Mobile Platform Engineering** for FinTech and HealthTech.
+## About
+
+Building **high-performance Flutter & React Native applications**.
+
+6+ years shipping Flutter and React Native products to the App Store and Play Console. Clean architecture, solid state management, and CI/CD from first build to release.
 
 ---
 
-## 💼 High-Impact Experience
+## Impact
 
-### **Lead Mobile Engineer | Flutter & React Native Specialist**
-**Al-Burraq Technologies (LLC)** | May 2021 – Present
-- **Portfolio Excellence:** Spearheaded end-to-end development of **35+ cross-platform apps** for iOS and Android.
-- **Engineering Leadership:** Orchestrated a high-performing mobile squad using **Agile Scrum**, increasing sprint velocity and achieving 100% client satisfaction.
-- **Performance & Architecture:** Optimized app responsiveness by **30%** by implementing Clean Architecture and SOLID principles (BLoC, Riverpod, Redux).
-- **Feature Integration:** Architected complex modules (Biometrics, Real-time Tracking, Payments) for platforms with **100K+ active users**.
-- **Mobile DevOps:** Established automated **CI/CD pipelines** (Codemagic/GitHub Actions), cutting production release errors by **40%**.
-
-### **Senior Mobile Engineer (Remote) | Mobile Architecture**
-**Access IT Sdn Bhd** | Apr 2022 – Mar 2026
-- **Enterprise Solutions:** Engineered a large-scale **POS system** with an **Offline-first architecture** (Hive/SQLite), improving reliability by 20%.
-- **Quality Engineering:** Reduced post-release defects by **15%** by championing a "Test-Driven" culture (Unit, Widget, and Integration tests).
-- **Design Systems:** Developed a proprietary UI component library, cutting feature development time by **25%** while ensuring 100% visual consistency.
-
-### **Mobile App Developer**
-**Brainstormer Technologies** | Apr 2020 – Mar 2021
-- **Full-Stack Mobile:** Built and launched several apps integrated with **Firebase** and local payment providers (JazzCash/Stripe).
-- **Rapid Delivery:** Consistently delivered modules **15% ahead of schedule** by leveraging GetX and micro-service structures.
-- **UI/UX Implementation:** Partnered with designers in Figma to translate high-fidelity prototypes into pixel-perfect, responsive mobile interfaces.
+| | |
+| :--- | :--- |
+| **6+** | Years in production — Flutter and React Native apps shipped and kept in production |
+| **50+** | Apps deployed — end-to-end releases on the App Store and Play Console |
+| **100k+** | Active users — fintech, health, hospitality, and retail apps in use worldwide |
+| **Low** | Crash rate in production — store apps stay stable after release |
 
 ---
 
-## 🛠️ Technical Ecosystem
+## Experience
+
+### Senior Mobile Engineer
+**[Al-Burraq Technologies (LLC)](https://www.al-burraq.com/)** · Lahore, Pakistan · May 2021 – Present
+- Shipped **50+** store-ready iOS and Android apps with a small squad, from product scope through App Store and Play Console release.
+- Improved core-flow responsiveness by about **30%** with clearer architecture, predictable state, and SOLID practices.
+- Delivered biometrics, live maps, and multi-gateway payments for **100K+** users without slowing day-to-day releases.
+- Automated builds, signing, and store submission so production releases stay repeatable and low-risk.
+
+### Senior Mobile Engineer
+**[Access IT Sdn Bhd](https://access-itech.com/)** · Cyberjaya, Malaysia · Remote · Part-time freelance · Apr 2022 – Mar 2026
+- Delivered production iOS and Android apps for client products, owning architecture, implementation, and store release.
+- Raised release quality with unit, UI, and integration tests, cutting defects that used to show up after launch.
+- Extracted a shared UI kit that sped up new screens by about **25%**, and trimmed API payloads so lists stay fast on device.
+
+### Mobile App Developer
+**[Brainstormer Technologies](https://www.brainstormertech.com/)** · Lahore, Pakistan · Apr 2020 – Mar 2021
+- Connected apps to cloud auth, realtime data, and payments so features shipped without a custom backend for every screen.
+- Delivered complex modules about **15%** ahead of schedule by keeping the app structure modular and easy to extend.
+- Took Figma designs to production and improved startup time and memory use on older code.
+
+### Bachelor of Computer Science
+**[Bahauddin Zakariya University](https://bzu.edu.pk/)** · Oct 2016 – Oct 2020
+Four-year CS degree covering programming, OOP, data structures, databases, software engineering, operating systems, and computer networks.
+
+---
+
+## What I work with
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frameworks** | **Flutter (Dart)**, **React Native (TS/JS)**, Expo, React.js |
-| **State Management** | **BLoC**, **Riverpod**, Redux, GetX, Provider |
-| **Databases** | Firebase, Supabase, PostgreSQL, MongoDB, SQLite, Hive |
-| **Infrastructure** | **Mobile Platform Engineering**, CI/CD (GitHub Actions, Fastlane, Codemagic) |
-| **Specialties** | **FinTech Security**, **HealthTech Compliance**, Payment Gateways |
+| **Frameworks** | Flutter (Dart), React Native (TypeScript/JavaScript), Expo, React.js |
+| **State** | BLoC, Riverpod, Redux Toolkit, GetX, Provider |
+| **Native** | MethodChannels, Native Modules |
+| **Data & backends** | Firebase, Supabase, Postgres, MongoDB, SQLite |
+| **Payments** | Stripe, In-App Purchase, RevenueCat |
+| **Device** | Offline storage, maps, biometrics, Bluetooth |
+| **CI/CD** | GitHub Actions, Codemagic, Fastlane, store signing |
 
 ---
 
-## ✨ Highlights & Impact
-- **Reliability:** Re-engineered a delivery app that dropped crash rates from **7% to 0.5%**.
-- **Scalability:** Built an E-commerce platform handling **1M+ monthly sessions** with 99.9% uptime.
-- **Efficiency:** Integrated CI/CD pipelines that cut release prep from **days to under an hour**.
+## Open source
+
+**[Flutter Image Multi-Grid Selection](https://pub.dev/packages/flutter_image_multi_grid_selection)** · Author & Maintainer
+A Flutter package for optimized multi-grid rendering.
 
 ---
 
-## 📦 Open Source & Publications
-**[Flutter Image Multi-Grid Selection](https://pub.dev/packages/flutter_image_multi_grid_selection)** *Author & Maintainer | Mar 2023* A specialized Flutter package for optimized multi-grid image selection, demonstrating deep knowledge of the Flutter rendering engine and commitment to the open-source community.
+## Let’s talk
 
----
+Available for new projects — a senior Flutter & React Native engineer for a greenfield app, an audit of a current cross-platform codebase, or hands-on mobile development.
 
-## 🌍 Industry Expertise
-**FinTech | HealthTech | Logistics | E-commerce | PropTech | On-Demand Services**
-
----
-
-## 🤝 Let's Connect
-I am open to **Senior Lead** or **Architect** roles in the **UAE, Europe, and Canada**, as well as high-impact **Global Remote** opportunities.
-
-- 🌐 **Website:**[Portfolio](https://asif-portfolio-dun.vercel.app/)
+- 🌐 **Website:** [asif-portfolio-dun.vercel.app](https://asif-portfolio-dun.vercel.app/)
 - 📩 **Email:** [masif.devs@gmail.com](mailto:masif.devs@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/masifdevs](https://www.linkedin.com/in/masifdevs)
 - 💻 **GitHub:** [github.com/masifdevs](https://github.com/masifdevs)
-
-
----
-*“Building the paved roads (Golden Paths) for mobile teams to scale.”*
