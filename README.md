@@ -1,6 +1,6 @@
 # Muhammad Asif
 ### Senior Mobile Developer | Flutter & React Native | 6+ Years
-📍 Lahore, Pakistan | 📧 [masif.devs@gmail.com](mailto:masif.devs@gmail.com) | 🌐 [Portfolio](https://asif-portfolio-dun.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/masifdevs) | 💻 [GitHub](https://github.com/masifdevs)
+Lahore, Pakistan | [masif.devs@gmail.com](mailto:masif.devs@gmail.com) | [Portfolio](https://asif-portfolio-dun.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/masifdevs) | [GitHub](https://github.com/masifdevs)
 
 ---
 
