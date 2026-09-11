@@ -1,6 +1,7 @@
 # Muhammad Asif
 ### Senior Mobile Developer | Flutter & React Native | 6+ Years
-Lahore, Pakistan | [masif.devs@gmail.com](mailto:masif.devs@gmail.com) | [Portfolio](https://asif-portfolio-dun.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/masifdevs) | [GitHub](https://github.com/masifdevs)
+
+Lahore, Pakistan · [Email](mailto:masif.devs@gmail.com) · [Portfolio](https://asif-portfolio-dun.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/masifdevs) · [GitHub](https://github.com/masifdevs)
 
 ---
 
@@ -10,16 +11,21 @@ Building **high-performance Flutter & React Native applications**.
 
 6+ years shipping Flutter and React Native products to the App Store and Play Console. Clean architecture, solid state management, and CI/CD from first build to release.
 
+**6+** years in production · **50+** apps deployed · **100k+** active users · low crash rate in production
+
 ---
 
-## Impact
+## Apps
 
-| | |
-| :--- | :--- |
-| **6+** | Years in production — Flutter and React Native apps shipped and kept in production |
-| **50+** | Apps deployed — end-to-end releases on the App Store and Play Console |
-| **100k+** | Active users — fintech, health, hospitality, and retail apps in use worldwide |
-| **Low** | Crash rate in production — store apps stay stable after release |
+| App | Description | Stores |
+| :--- | :--- | :--- |
+| [IT FITS](https://apps.apple.com/pk/app/it-fits/id6745858634) | Wellness companion for meals, hydration, sleep, and wearable data | [App Store](https://apps.apple.com/pk/app/it-fits/id6745858634) · [Play](https://play.google.com/store/apps/details?id=com.itfits.app) |
+| [Neuro Force One (NF1)](https://apps.apple.com/pk/app/nf1/id1541450335) | Training, nutrition, and health with watch and heart-rate data | [App Store](https://apps.apple.com/pk/app/nf1/id1541450335) · [Play](https://play.google.com/store/apps/details?id=com.idzyns.nf1app) |
+| [Oval Digital Card](https://apps.apple.com/us/app/oval-digital-business-card/id6505111461) | Digital business card over QR, NFC, or a personal link | [App Store](https://apps.apple.com/us/app/oval-digital-business-card/id6505111461) · [Play](https://play.google.com/store/apps/details?id=accessit.oval.customerapp) |
+| [Tax Calculator](https://apps.apple.com/pk/app/tax-calculator-pk/id6739707197) | Pakistan tax estimates from public FBR and PTA slabs | [App Store](https://apps.apple.com/pk/app/tax-calculator-pk/id6739707197) · [Play](https://play.google.com/store/apps/details?id=alburraq.taxcalculatorpk) |
+| [Hala Sport](https://apps.apple.com/us/app/hala-sport/id1642769689) | Sports booking for courts and facilities with live slots | [App Store](https://apps.apple.com/us/app/hala-sport/id1642769689) · [Play](https://play.google.com/store/apps/details?id=com.hala.customerapp) |
+
+**Open source:** [Flutter Image Multi-Grid Selection](https://pub.dev/packages/flutter_image_multi_grid_selection) — author and maintainer of a Flutter package for optimized multi-grid rendering.
 
 ---
 
@@ -64,18 +70,11 @@ Four-year CS degree covering programming, OOP, data structures, databases, softw
 
 ---
 
-## Open source
-
-**[Flutter Image Multi-Grid Selection](https://pub.dev/packages/flutter_image_multi_grid_selection)** · Author & Maintainer
-A Flutter package for optimized multi-grid rendering.
-
----
-
 ## Let’s talk
 
 Available for new projects — a senior Flutter & React Native engineer for a greenfield app, an audit of a current cross-platform codebase, or hands-on mobile development.
 
-- 🌐 **Website:** [asif-portfolio-dun.vercel.app](https://asif-portfolio-dun.vercel.app/)
-- 📩 **Email:** [masif.devs@gmail.com](mailto:masif.devs@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/masifdevs](https://www.linkedin.com/in/masifdevs)
-- 💻 **GitHub:** [github.com/masifdevs](https://github.com/masifdevs)
+- [Portfolio](https://asif-portfolio-dun.vercel.app/)
+- [Email](mailto:masif.devs@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/masifdevs)
+- [GitHub](https://github.com/masifdevs)
